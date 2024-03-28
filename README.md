@@ -19,3 +19,6 @@
 
 [![GIF](https://github.com/Badhacker98/Badhacker98/blob/main/Badhacker98.gif)](https://github.com/Badhacker98)
    [![ 𝗧𝗘𝗔𝗠 𝗣𝗕𝗫 ](https://github-stats-alpha.vercel.app/api?username=Badhacker98 "Badhacker98")](https://github-stats-alpha.vercel.app/api?username=Badhacker98 "Badhacker98")
+
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=⭐+𝗣𝗕𝗫+𝗧𝗘𝗔𝗠+💫">
