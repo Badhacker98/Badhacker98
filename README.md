@@ -16,15 +16,15 @@
   />
 </picture>
 
-## 🏆 GitHub Trophies
+## 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=Badhacker98&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 ᴛᴏᴘ ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ʀᴇᴘᴏ
 ![](https://github-contributor-stats.vercel.app/api?username=Badhacker98&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-![Doraemon GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=Badhacker98&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
+![Badmunda GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=Badhacker98&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
