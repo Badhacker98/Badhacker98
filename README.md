@@ -16,6 +16,19 @@
   />
 </picture>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Badhacker98&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Badhacker98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![Doraemon GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=Badhacker98&bg_color=151515&color=42d762&line=0ee139&point=ffffff&area=true&hide_border=true)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 [![GIF](https://github.com/Badhacker98/Badhacker98/blob/main/Badhacker98.gif)](https://github.com/Badhacker98)
    [![ 𝗧𝗘𝗔𝗠 𝗣𝗕𝗫 ](https://github-stats-alpha.vercel.app/api?username=Badhacker98 "Badhacker98")](https://github-stats-alpha.vercel.app/api?username=Badhacker98 "Badhacker98")
