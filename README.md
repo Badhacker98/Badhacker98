@@ -16,6 +16,8 @@
   />
 </picture>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Badhacker98up&label=Profile%20views&color=0e75b6&style=flat" alt="Badhacker98" /> </p>
+
 ## 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=Badhacker98&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
