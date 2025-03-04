@@ -39,8 +39,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=⭐+𝗣𝗕𝗫+𝗧𝗘𝗔𝗠+💫">
 
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
-
+<!-- Animated GIF for better look -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="400px" alt="Coding GIF">
+</p>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Badhacker98&show_icons=true&locale=en&layout=compact" alt="Badhacker98" /></p>
 
