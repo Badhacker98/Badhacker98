@@ -4,7 +4,7 @@
 📌 Our team will review and respond as soon as possible.
 
 ### 📩 Submit Your Problem:
-[![Create Issue](https://img.shields.io/badge/Create%20Issue-Report-blue?style=for-the-badge&logo=github)](https://github.com/Badhacker98/Badhacker98/issues/new)
+[![Create Issue](https://img.shields.io/badge/Create%20Issue-Report-blue?style=for-the-badge&logo=github)](https://github.com/Badhacker98/issues/new)
 ---
 
 ### 📖 How It Works:
