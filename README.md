@@ -4,7 +4,7 @@
 📌 Our team will review and respond as soon as possible.
 
 ### 📩 Submit Your Problem:
-[![Create Issue](https://img.shields.io/badge/Create%20Issue-Report-blue?style=for-the-badge&logo=github)](https://github.com/Badhacker98up/Badhacker-HelpCenter/issues/new)
+[![Create Issue](https://img.shields.io/badge/Create%20Issue-Report-blue?style=for-the-badge&logo=github)](https://github.com/Badhacker98/Badhacker-HelpCenter/issues/new)
 
 ---
 
@@ -15,12 +15,12 @@
 4️⃣ Check back for updates in the **Issues** section.
 
 🔗 **View All Submitted Issues:**  
-[![View Issues](https://img.shields.io/github/issues/Badhacker98up/Badhacker-HelpCenter?style=for-the-badge)](https://github.com/Badhacker98up/Badhacker-HelpCenter/issues)
+[![View Issues](https://img.shields.io/github/issues/Badhacker98/Badhacker-HelpCenter?style=for-the-badge)](https://github.com/Badhacker98/Badhacker-HelpCenter/issues)
 
 ---
 
 ### **👨‍💻 Support Team (Reply Here)**
-🔹 **Owner:** [@Badhacker98up](https://github.com/Badhacker98up)  
+🔹 **Owner:** [@Badhacker98](https://github.com/Badhacker98)  
 🔹 **Contributors Welcome!**  
 🔹 **Response Time:** Within 24-48 hours
 
